@@ -56,3 +56,7 @@ nosetests.xml
 # supervisord
 supervisord.conf
 public/
+./static/
+.grunt/
+runner.html
+settings_local.py
